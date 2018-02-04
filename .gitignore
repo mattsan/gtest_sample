@@ -1,0 +1,4 @@
+*.o
+*.a
+**/googletest
+calc_test
